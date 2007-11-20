@@ -1,6 +1,6 @@
 ---
 name: Document-Maker
-version: 0.020
+version: 0.021
 author:
   - 'Robert Krimen <rkrimen@cpan.org>'
 abstract: Makefile-like functionality in Perl
@@ -12,7 +12,7 @@ build_requires:
 provides:
   Document::Maker:
     file: lib/Document/Maker.pm
-    version: 0.020
+    version: 0.021
   Document::Maker::Dependency:
     file: lib/Document/Maker/Dependency.pm
   Document::Maker::FileFinder::Query:

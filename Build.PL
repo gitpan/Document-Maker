@@ -12,7 +12,7 @@ my $builder = Module::Build->new(
     },
     requies => {
         'Path::Class' => 0,
-        'Moose' => 0,
+        'Moose' => '0.26',
         'Scalar::Util' => 0,
         'Log::Log4perl' => 0,
         'File::Find::Rule' => 0,
