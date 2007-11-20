@@ -1,0 +1,7 @@
+0.020 Tuesday November 20 01:17:33 PST 2007:
+ - Rewrite, third attempt at a sane API
+ - Very basic functionality complete
+ - Dropped Class::* and switched to using Moose
+
+0.01_02 August:
+ - Initial release
